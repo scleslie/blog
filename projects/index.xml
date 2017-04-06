@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Spencer Leslie</title>
+    <link>https://scleslie.github.io/blog/projects/index.xml</link>
+    <description>Recent content in Projects on Spencer Leslie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Mar 2017 12:00:52 -0700</lastBuildDate>
+    <atom:link href="https://scleslie.github.io/blog/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>More coming soon</title>
+      <link>https://scleslie.github.io/blog/projects/projects/</link>
+      <pubDate>Wed, 29 Mar 2017 12:00:52 -0700</pubDate>
+      
+      <guid>https://scleslie.github.io/blog/projects/projects/</guid>
+      <description>&lt;p&gt;I will try to keep a record of what projects I have going on in my life at the time here as best as I can. This includes both professional and personal projects (such as this blog). I will start a post for each project and update them as things progress.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
